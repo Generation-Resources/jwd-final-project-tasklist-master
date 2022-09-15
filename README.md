@@ -18,3 +18,6 @@
 
 **Assessment**
 In each task you will be assessed by the instructors on the “Assessment Criteria” in this rubric: https://docs.google.com/spreadsheets/d/1pKK9KCnpraEcL7FQjxeMVeDWfjbypYRcSrXCyAVPtHo/edit?usp=sharing
+
+https://user-images.githubusercontent.com/36890724/190521773-b3399bdb-1103-4035-bb2c-fcd2eb65c632.mp4
+
