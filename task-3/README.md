@@ -11,7 +11,7 @@ Implement the card layout bootstrap component that contains the task information
 
 > #### Tools
 > - [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-> - [Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introd)
+> - [Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction)
     
 ## Walkthrough
 
