@@ -13,7 +13,7 @@ In this step, we'll re-organise our folder structure in preparation for the next
 1. Create a `js` folder in your project if one does not already exist (put it in the *assets* folder)
 2. Copy the existing js file into your `js` folder, and rename it to `index.js`
 3. Update the `<script>` tag in your `html` file to use the new location of the `assets/js/index.js` file.
-4.  Create a `taskManager.js` file in the `js` folder
+4. Create a `taskManager.js` file in the `js` folder
 5. Add a `<script>` tag pointing to the `assets/js/taskManager.js` file _before_ the `<script>` tag pointing to the `assets/js/index.js` file.
 
 ### Step 2: The TaskManager Class

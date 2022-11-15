@@ -85,7 +85,7 @@ We can mostly rely on the data stored for each task in the `TaskManager`'s `task
 
 1. In `js/taskManager.js`, within the `TaskManager` class, create a `render()` method. This method does not need any parameters.
 
-2. Create a variable storing an empty array to hold the HTML of all the tasks' html, `tasksHtmlList`.
+2. Within the method, create a variable storing an empty array to hold the HTML of all the tasks' html, `tasksHtmlList`.
 
 3. Loop over the `TaskManager`'s tasks, for each task:
 
@@ -93,10 +93,10 @@ We can mostly rely on the data stored for each task in the `TaskManager`'s `task
 
     2. Create a `date` variable, storing a `new Date()`, passing in the current task's `dueDate` to the `Date` constructor.
 
-    3. Create a `formattedDate` variable, storing a readable `string` representing the date, using methods of the `date` we just created. 
+    3. Create a `formattedDate` variable, storing a readable `string` representing the date, using methods of the `date` we just created.
 
         **Hint**: Use MDN's [Date](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date) reference to see what methods are available to format a date. Build a string using string concatenation or template literals. Check the [example/taskManager.js](example/js/taskManager.js) to see how it can be done if you get stuck.
-    
+
     4. Create a `taskHtml` variable to store the HTML of the current task, by calling the `createTaskHtml` function and using the properties of the current task, as well as the new `formattedDate` variable for the parameters.
 
     5. `push` the `taskHtml` into the `tasksHtmlList` array.
@@ -125,7 +125,3 @@ Now that the `TaskManager` class has a `render()` method, we need to make sure t
 Go ahead and open `index.html` in the browser and add some tasks using the form. You should see each new task populate the task list!
 
 Your task should meet the assesment criteria in the **Final Project - Scorecard Rubric**.
-
-
-
-
