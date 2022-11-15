@@ -43,8 +43,6 @@ In this step, we'll test some of the methods that exist on our `TaskManager` cla
 >  **Expected Result**
 >  You should see the tests all pass, green!
 
-### JWD 3 - YOU DO NOT NEED DO THIS STEP - IT IS OPTIONAL
-
 ### Step 3: Testing TaskManager Methods - CHALLENGE (OPTIONAL)
 
 > #### Useful Resources for this step
